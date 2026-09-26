@@ -1,4 +1,4 @@
-# Equation Solver - Started in 2022 in Blida
+# Equation Solver - Started in 2021 in Blida
 # To help my classmates solve math
 import math
 print("=== حل معادلة من الدرجة الثانية ax² + bx + c = 0 ===")
